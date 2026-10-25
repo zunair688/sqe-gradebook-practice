@@ -1,0 +1,2 @@
+## Contributing Guidelines
+The project will follow a branch-based workflow to keep development organized. The main branch will contain stable code, while new features and fixes will be developed in separate feature or bug-fix branches. Branches should use descriptive names, such as feature/student-class or fix/grade-calculation. Changes should be committed with clear, descriptive commit messages and merged into main after review and successful testing.
