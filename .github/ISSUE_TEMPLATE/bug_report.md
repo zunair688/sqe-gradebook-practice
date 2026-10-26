@@ -1,47 +1,38 @@
-name: Bug Report about: Report a reproducible defect in GradeBook title: "[BUG] " labels: "type:bug" assignees: ""
-Description
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
 
-Describe the bug clearly.
+---
 
-Steps to Reproduce
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-Provide exact, numbered steps to reproduce the bug.
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-Code Snippet
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-Provide the minimum Python code needed to reproduce the bug.
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-python
-# Add reproducible code here
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
 
-Expected Result
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
 
-What did you expect to happen?
-
-Actual Result
-
-What actually happened? Include any error message or traceback.
-
-Environment
-Operating System:
-Python Version:
-Repository Version / Commit:
-Severity
-
-Select one:
-
-Critical
-High
-Medium
-Low
-Priority
-
-Select one:
-
-P0
-P1
-P2
-P3
-Severity and Priority Justification
-
-Explain why the selected severity and priority are appropriate.
+**Additional context**
+Add any other context about the problem here.
