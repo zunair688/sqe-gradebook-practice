@@ -1,25 +1,41 @@
-# Bug Report
+
+---
+name: Bug report
+about: Report a bug in the Gradebook project
+title: "[BUG] "
+labels: ""
+assignees: ""
+---
 
 ## Description
 Describe the bug clearly.
 
 ## Steps to Reproduce
+1. Create a student.
+2. Perform the action that causes the bug.
+3. Observe the result.
+
+## Example Code
+```python
+# Add the code needed to reproduce the bug here
+```
 
 ## Expected Result
-What did you expect to happen?
+What should happen?
 
 ## Actual Result
-What actually happened?
+What actually happens? Include the error message if available.
 
 ## Environment
-- Operating System:
+- Operating System: Windows
 - Python Version:
 - Repository Version / Commit:
 
 ## Severity
-Select one:
+- [ ] Critical
+- [ ] High
+- [ ] Medium
+- [ ] Low
 
-- Critical
-- High
-- Medium
-- Low
+## Additional Information
+Add any other useful details.
