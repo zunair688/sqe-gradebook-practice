@@ -1,38 +1,41 @@
+
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
+about: Report a bug in the Gradebook project
+title: "[BUG] "
+labels: ""
+assignees: ""
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Description
+Describe the bug clearly.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## Steps to Reproduce
+1. Create a student.
+2. Perform the action that causes the bug.
+3. Observe the result.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## Example Code
+```python
+# Add the code needed to reproduce the bug here
+```
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Expected Result
+What should happen?
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## Actual Result
+What actually happens? Include the error message if available.
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+## Environment
+- Operating System: Windows
+- Python Version:
+- Repository Version / Commit:
 
-**Additional context**
-Add any other context about the problem here.
+## Severity
+- [ ] Critical
+- [ ] High
+- [ ] Medium
+- [ ] Low
+
+## Additional Information
+Add any other useful details.
