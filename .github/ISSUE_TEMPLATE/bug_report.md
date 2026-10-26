@@ -1,9 +1,19 @@
-# Bug Report
+<!-- # Bug Report
 
 ## Description
-Describe the bug clearly.
+Describe the bug clearly. -->
+
+---
+name: Bug Report
+about: Report a reproducible GradeBook bug
+title: "[BUG] "
+labels: "type:bug"
+assignees: ""
+---
 
 ## Steps to Reproduce
+
+## Code Snippet
 
 ## Expected Result
 What did you expect to happen?
@@ -23,3 +33,5 @@ Select one:
 - High
 - Medium
 - Low
+
+## Priority Justification
