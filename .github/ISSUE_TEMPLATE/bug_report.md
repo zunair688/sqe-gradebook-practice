@@ -1,37 +1,47 @@
-<!-- # Bug Report
+name: Bug Report about: Report a reproducible defect in GradeBook title: "[BUG] " labels: "type:bug" assignees: ""
+Description
 
-## Description
-Describe the bug clearly. -->
+Describe the bug clearly.
 
----
-name: Bug Report
-about: Report a reproducible GradeBook bug
-title: "[BUG] "
-labels: "type:bug"
-assignees: ""
----
+Steps to Reproduce
 
-## Steps to Reproduce
+Provide exact, numbered steps to reproduce the bug.
 
-## Code Snippet
+Code Snippet
 
-## Expected Result
+Provide the minimum Python code needed to reproduce the bug.
+
+python
+# Add reproducible code here
+
+Expected Result
+
 What did you expect to happen?
 
-## Actual Result
-What actually happened?
+Actual Result
 
-## Environment
-- Operating System:
-- Python Version:
-- Repository Version / Commit:
+What actually happened? Include any error message or traceback.
 
-## Severity
+Environment
+Operating System:
+Python Version:
+Repository Version / Commit:
+Severity
+
 Select one:
 
-- Critical
-- High
-- Medium
-- Low
+Critical
+High
+Medium
+Low
+Priority
 
-## Priority Justification
+Select one:
+
+P0
+P1
+P2
+P3
+Severity and Priority Justification
+
+Explain why the selected severity and priority are appropriate.
