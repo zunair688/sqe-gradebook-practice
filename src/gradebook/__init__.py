@@ -15,3 +15,19 @@ class student:
 
         return sum(self.score) / len(self.score)
 
+
+
+
+
+
+class GradeBook:
+    def __init__(self):
+        self.students = []
+
+    def add_student(self, new_student):
+        for s in self.students:
+            if s.roll_number == new_student.roll_number:
+                return False
+
+        self.students.append(new_student)
+        return True
